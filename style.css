@@ -1,0 +1,91 @@
+.line{
+    text-decoration: line-through;
+}
+
+
+
+#form{
+    font-size: 20px;
+    margin-top:20px;
+    background-color: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: white solid;
+    color :white;
+    
+}
+
+
+
+#box{
+    background-color: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: white solid;
+    
+    
+    height : 50px;
+    font-style: italic;
+    font-size:25px;
+    color:white;
+
+}
+
+#focus{
+    font-size:25px;
+    
+}
+#button{
+    border : white;
+    height: 50px;
+    font-size:20px;
+}
+
+
+div#weather{
+   text-align: right;
+   margin-right: 20px;
+   
+  
+}
+
+div#center{
+    text-align: center;
+  vertical-align: middle;
+  margin-top:240px;
+}
+
+#greeting{
+    font-size: 50px
+}
+
+#clock{
+    font-size: 100px;
+    margin-bottom: 20px;
+}
+
+
+
+#todo-list{
+    padding-left: 0;
+}
+
+
+
+#quote{
+    text-align:center;
+    margin-top: 140px;
+
+}
+body{
+background-size: 1700px;
+
+
+color: white;}
+
+
+.hidden{display:none};
+
+
