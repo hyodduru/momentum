@@ -5,7 +5,6 @@ let toDos = [];
 const TODOS_KEY = "todos";
 
 
-window.addEventListener("storage",storageEvent)
 
 
 
